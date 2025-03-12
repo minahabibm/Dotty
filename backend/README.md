@@ -1,2 +1,0 @@
-# Dotty
-Trading Bot
